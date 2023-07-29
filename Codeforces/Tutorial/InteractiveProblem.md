@@ -1,3 +1,3 @@
-# CP-Github
+# Interactive Problem
 
-## Hello, this is the repository of my cp journey. 
+Link: https://codeforces.com/blog/entry/45307
